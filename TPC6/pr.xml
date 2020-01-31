@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE project-record SYSTEM "pr.dtd">
+<project-record>
+    <head>
+        <key-name>PRI1920_TPC6</key-name>
+        <title>TPC 3</title>
+        <begin-date>Outubro 2019</begin-date>
+        <end-date>Janeiro 2020</end-date>
+        <supervisor href="www.di.uminho.pt/~jcr">José Carlos Ramalho</supervisor>
+    </head>
+    <team>
+        <member id="a72187" email="a72187@alunos.uminho.pt">José Carlos Araújo Lima</member>
+    </team>
+    <abstract>
+    
+            <paragraph>Aqui vai feito o tpc6
+
+            </paragraph>
+    </abstract>
+    <deliver>
+        <doc href="pr.dtd">pr.dtd</doc>
+        <doc href="pr.xml">pr.xml</doc>
+    </deliver>
+</project-record>

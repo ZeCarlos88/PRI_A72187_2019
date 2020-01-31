@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE project-record SYSTEM "pr.dtd">
+<project-record>
+    <head>
+        <key-name>PRI1920_TPC6</key-name>
+        <title>TPC 3</title>
+        <begin-date>Outubro 2019</begin-date>
+        <end-date>Janeiro 2020</end-date>
+        <supervisor href="www.di.uminho.pt/~jcr">José Carlos Ramalho</supervisor>
+    </head>
+    <team>
+        <member id="a72187" email="a72187@alunos.uminho.pt">José Carlos Araújo Lima</member>
+    </team>
+    <abstract>
+    
+
+
+<p>
+Para este último trabalho de casa, foi proposta a criação de um servidor em 
+<b>NodeJS</b>
+, que disponibilizasseuma 
+<b>API</b>sobre os dados de um <i>dataset</i>de obras musicais. Esses dados foram disponibilizados em 
+<b>XML</b> e convertidos para <b>JSON</b>, para poderem ser importados pela base de dados de 
+<b>MongoDB</b>
+. 
+</p>
+
+
+<p>
+Era necessária a criação de duas rotas para o servidor poder responder a pedidos 
+<b>GET</b>, as rotas obras ecompositores. 
+</p>
+
+
+-<p>
+Por fim, para obter a informação pretendida realizou-se as <i>querys</i>em 
+<b>MongoDB</b> do <i>controller</i>,em que no caso da rota obras, tratam-se de <i>querys</i>
+de inversão estrutural. 
+</p>
+    </abstract>
+    <deliver>
+        <doc href="pr.dtd">pr.dtd</doc>
+        <doc href="pr.xml">pr.xml</doc>
+    </deliver>
+</project-record>

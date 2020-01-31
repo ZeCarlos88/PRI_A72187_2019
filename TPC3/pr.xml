@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE project-record SYSTEM "pr.dtd">
+<project-record>
+    <head>
+        <key-name>PRI1920_TPC3</key-name>
+        <title>TPC 3</title>
+        <begin-date>Outubro 2019</begin-date>
+        <end-date>Janeiro 2020</end-date>
+        <supervisor href="www.di.uminho.pt/~jcr">José Carlos Ramalho</supervisor>
+    </head>
+    <team>
+        <member id="a72187" email="a72187@alunos.uminho.pt">José Carlos Araújo Lima</member>
+    </team>
+    <abstract>
+        <paragraph>
+            Este tpc tinha de se fazer duas stylesheet's em formato xsl. Uma delas sendo a stylesheet do project recorde
+            e outro para a arqueossítios.
+        </paragraph>
+        
+    </abstract>
+    <deliver>
+        <doc href="pr.dtd">pr.dtd</doc>
+        <doc href="pr.xml">pr.xml</doc>
+        <doc href="arq.xsl">arq.txt</doc>
+        
+    </deliver>
+</project-record>

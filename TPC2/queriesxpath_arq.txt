@@ -1,0 +1,5 @@
+a) IDENTI[contains(../CONCEL,'Amares')]
+
+b) CONCEL[not(normalize-space(.)=following::CONCEL/normalize-space(.))]
+
+c) DESCRI[contains(../CONCEL,'Montalegre')]
